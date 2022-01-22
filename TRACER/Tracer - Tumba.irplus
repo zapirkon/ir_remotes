@@ -1,0 +1,12 @@
+<irplus>
+ <device manufacturer="Tracer" model="Tumba" columns="2" format="WINLIRC_SPACEENC" toggle-bit-pos="0" one-pulse="560" one-space="562" zero-pulse="560" zero-space="1671" header-pulse="8986" header-space="4511" gap-space="39823" gap-pulse="560" bits="16" pre-bits="16" scaleRatio="3.0">
+  <button label="MODE" labelSize="18.0">0xFF00 0x5DA2</button>
+  <button label="&#1045889;" labelSize="18.0" backgroundColor="FFA34242">0xFF00 0x1DE2</button>
+  <button label="&#1046365;" labelSize="22.0">0xFF00 0x1FE0</button>
+  <button label="&#1046364;" labelSize="22.0">0xFF00 0x6F90</button>
+  <button label="&#61514;" labelSize="22.0">0xFF00 0x9768</button>
+  <button label="&#61518;" labelSize="22.0">0xFF00 0x4FB0</button>
+  <button label="&#1045518;" labelSize="22.0">0xFF00 0xCF30</button>
+  <button label="EQ" labelSize="18.0">0xFF00 0x857A</button>
+ </device>
+</irplus>

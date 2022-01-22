@@ -1,0 +1,49 @@
+<irplus>
+ <device manufacturer="SAMSUNG" model="AA59-00382A-TV" columns="12" format="WINLIRC_NECx1">
+  <button label="&#61457;" labelSize="25.0" span="4" backgroundColor="FFC84334">0xE0E0 0x40BF</button>
+  <button label="SOURCE" labelSize="18.0" span="4">0xE0E0 0x807F</button>
+  <button label="&#1045889;" labelSize="25.0" span="4">0xE0E0 0xF00F</button>
+  <button label="1" labelSize="25.0" span="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x20DF</button>
+  <button label="2" labelSize="25.0" span="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0xA05F</button>
+  <button label="3" labelSize="25.0" span="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x609F</button>
+  <button label="4" labelSize="25.0" span="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x10EF</button>
+  <button label="5" labelSize="25.0" span="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x906F</button>
+  <button label="6" labelSize="25.0" span="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x50AF</button>
+  <button label="7" labelSize="25.0" span="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x30CF</button>
+  <button label="8" labelSize="25.0" span="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0xB04F</button>
+  <button label="9" labelSize="25.0" span="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x708F</button>
+  <button label="-/--" labelSize="18.0" span="4">0xE0E0 0xC43B</button>
+  <button label="0" labelSize="25.0" span="4" labelColor="FF000000" backgroundColor="FFCCCCCC">0xE0E0 0x8877</button>
+  <button label="PRE-CH" labelSize="18.0" span="4">0xE0E0 0xC837</button>
+  <button label="TV" labelSize="25.0" span="3">0xE0E0 0xD827</button>
+  <button label="CH-MGR" labelSize="18.0" span="3">0xE0E0 0xD629</button>
+  <button label="SLEEP" labelSize="18.0" span="3">0xE0E0 0xC03F</button>
+  <button label="SRS" labelSize="18.0" span="3">0xE0E0 0x7689</button>
+  <button label="MENU" labelSize="18.0" span="6">0xE0E0 0x58A7</button>
+  <button label="EXIT" labelSize="18.0" span="6">0xE0E0 0xB44B</button>
+  <button label="VOL+" labelSize="18.0" span="4" labelColor="FF000000" backgroundColor="FF9ED2E5">0xE0E0 0xE01F</button>
+  <button label="&#61656;" labelSize="25.0" span="4">0xE0E0 0x06F9</button>
+  <button label="CH+" labelSize="18.0" span="4" labelColor="FF000000" backgroundColor="FF7EE295">0xE0E0 0x48B7</button>
+  <button label="&#61657;" labelSize="25.0" span="4">0xE0E0 0xA659</button>
+  <button label="ENTER" labelSize="18.0" span="4">0xE0E0 0x16E9</button>
+  <button label="&#61658;" labelSize="25.0" span="4">0xE0E0 0x46B9</button>
+  <button label="VOL-" labelSize="18.0" span="4" labelColor="FF000000" backgroundColor="FF9ED2E5">0xE0E0 0xD02F</button>
+  <button label="&#61655;" labelSize="25.0" span="4">0xE0E0 0x8679</button>
+  <button label="CH-" labelSize="18.0" span="4" labelColor="FF000000" backgroundColor="FF7EE295">0xE0E0 0x08F7</button>
+  <button label="INFO" labelSize="18.0" span="4">0xE0E0 0xF807</button>
+  <button label="PIP" labelSize="18.0" span="4">0xE0E0 0x04FB</button>
+  <button label="TTX" labelSize="18.0" span="4">0xE0E0 0x34CB</button>
+  <button label="P.MODE" labelSize="18.0" span="3" backgroundColor="FFC84334">0xE0E0 0x36C9</button>
+  <button label="S.MODE" labelSize="18.0" span="3" backgroundColor="FF1E7854">0xE0E0 0x28D7</button>
+  <button label="STILL" labelSize="18.0" span="3" backgroundColor="FFD6A81F">0xE0E0 0xA857</button>
+  <button label="P.SIZE" labelSize="18.0" span="3" backgroundColor="FF2A4C94">0xE0E0 0x6897</button>
+  <button label="SORUCE" labelSize="18.0" span="3">0xE0E0 0x24DB</button>
+  <button label="SWAP" labelSize="18.0" span="3">0xE0E0 0x847B</button>
+  <button label="SIZE" labelSize="18.0" span="3">0xE0E0 0xF40B</button>
+  <button label="P+" labelSize="25.0" span="3">0xE0E0 0x4CB3</button>
+  <button label="DUAL" labelSize="18.0" span="3">0xE0E0 0x00FF</button>
+  <button label="TURBO" labelSize="18.0" span="3">0xE0E0 0x26D9</button>
+  <button label="POSITION" labelSize="12.0" span="3">0xE0E0 0x44BB</button>
+  <button label="P-" labelSize="25.0" span="3">0xE0E0 0xCC33</button>
+ </device>
+</irplus>

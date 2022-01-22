@@ -1,0 +1,12 @@
+<irplus>
+	<device manufacturer="MANUFACTURER" model="MODEL" columns="12" format="WINLIRC_SPACEENC" bits="16" pre-bits="16" toggle-bit-pos="0" gap-pulse="560" gap-space="39823" one-pulse="560" one-space="562" zero-pulse="560" zero-space="1671" header-pulse="8986" header-space="4511">
+		<button label="MODE" span="4">0xFF00 0x0000000000005DA2</button>
+		<button label="MUTE" span="4">0xFF00 0x0000000000001DE2</button>
+		<button label="VOL_UP" span="4">0xFF00 0x0000000000006F90</button>
+		<button label="VOL_DOWN" span="4">0xFF00 0x0000000000001FE0</button>
+		<button label="CH_PREV" span="4">0xFF00 0x0000000000009768</button>
+		<button label="CH_NEXT" span="4">0xFF00 0x0000000000004FB0</button>
+		<button label="PLAY_PAUSE" span="4">0xFF00 0x000000000000CF30</button>
+		<button label="EQ" span="4">0xFF00 0x000000000000857A</button>
+	</device>
+</irplus>

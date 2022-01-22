@@ -1,0 +1,257 @@
+								
+	x	0	0x00FF		DUAL			
+		1	0x01FE					
+		2	0x02FD					
+		3	0x03FC					
+	e	4	0x04FB		PIP			
+	a	5	0x05FA	bixby				
+s	e	6	0x06F9			DIR_UP		
+		7	0x07F8					
+s	e	8	0x08F7			CH_DN		
+		9	0x09F6					
+		10	0x0AF5					
+		11	0x0BF4					
+		12	0x0CF3					
+		13	0x0DF2					
+		14	0x0EF1					
+		15	0x0FF0					
+	e	16	0x10EF			NUM_4		
+	x	17	0x11EE					
+	e	18	0x12ED			FAST_FORWARD		
+		19	0x13EC					
+	e c	20	0x14EB	picture mode				
+		21	0x15EA					
+s	e	22	0x16E9	info	INPUT	ENTER	OK	
+	x	23	0x17E8					
+		24	0x18E7					
+	e	25	0x19E6	power off	POWER_OFF			
+s	e	26	0x1AE5	exit		RETURN		
+		27	0x1BE4					
+		28	0x1CE3					
+		29	0x1DE2					
+		30	0x1EE1					
+		31	0x1FE0					
+	e	32	0x20DF			NUM_1		
+	e	33	0x21DE		EXT			
+	e	34	0x22DD			CH_FAV		
+		35	0x23DC					
+		36	0x24DB					
+		37	0x25DA					
+		38	0x26D9					
+	e	39	0x27D8		P.SIZE 16-9			
+	e	40	0x28D7			COLOR_B_GREEN		
+		41	0x29D6					
+		42	0x2AD5					
+		43	0x2BD4					
+		44	0x2CD3					
+		45	0x2DD2					
+		46	0x2ED1					
+	a	47	0x2FD0	amazon prime				
+	e	48	0x30CF			NUM_7		
+		49	0x31CE					
+		50	0x32CD					
+		51	0x33CC					
+	e	52	0x34CB			TTX		
+		53	0x35CA					
+	e	54	0x36C9			COLOR_A_RED		
+	e	55	0x37C8		AV			
+		56	0x38C7					
+	a	57	0x39C6	123/dots				
+		58	0x3AC5					
+		59	0x3BC4					
+	a	60	0x3CC3			3SPEED		
+s		61	0x3DC2				ROKU	
+		62	0x3EC1					
+		63	0x3FC0					
+	e	64	0x40BF	power off		POWER		
+		65	0x41BE					
+		66	0x42BD					
+	e	67	0x43BC	usb-c	HDMI3			
+		68	0x44BB					
+		69	0x45BA					
+s	e	70	0x46B9			DIR_RIGHT		
+		71	0x47B8					
+s	e	72	0x48B7			CH_UP		
+		73	0x49B6					
+	e	74	0x4AB5		AUDIO_LANGUAGE			
+s	a	75	0x4BB4	menu 123				
+	e	76	0x4CB3		PIP_CH_DN			
+		77	0x4DB2					
+		78	0x4EB1					
+		79	0x4FB0					
+	e	80	0x50AF	menu?		NUM_6		
+		81	0x51AE					
+	e	82	0x52AD			PAUSE		
+		83	0x53AC					
+		84	0x54AB					
+		85	0x55AA					
+		86	0x56A9					
+	x	87	0x57A8					
+	e	88	0x58A7			MENU		
+		89	0x59A6					
+		90	0x5AA5					
+		91	0x5BA4					
+		92	0x5CA3					
+		93	0x5DA2					
+		94	0x5EA1					
+	a	95	0x5FA0	youtube				
+	e	96	0x609F			NUM_3		
+	e	97	0x619E		COMPONENT			
+	e	98	0x629D			STOP		
+		99	0x639C					
+		100	0x649B					
+		101	0x659A					
+		102	0x6699					
+s	a	103	0x6798	standby				
+	e	104	0x6897			COLOR_D_BLUE		
+		105	0x6996					
+		106	0x6A95					
+		107	0x6B94					
+	e	108	0x6C93		ANA_DIG			
+		109	0x6D92					
+	a	110	0x6E91	menu				
+	a	111	0x6F90	picture mode				
+	e	112	0x708F			NUM_9		
+		113	0x718E					
+		114	0x728D					
+s	a	115	0x738C	num 123 ***				
+		116	0x748B					
+		117	0x758A					
+		118	0x7689					
+		119	0x7788					
+		120	0x7887					
+		121	0x7986					
+		122	0x7A85					
+	e	123	0x7B84		PIC_MOVIE1			
+	e	124	0x7C83	picture size		P.SIZE		
+	e	125	0x7D82	hdmi2	HDMI2			
+		126	0x7E81					
+		127	0x7F80					
+	e	128	0x807F			SOURCE		
+		129	0x817E					
+		130	0x827D					
+		131	0x837C					
+		132	0x847B					
+		133	0x857A					
+s	e	134	0x8679			DIR_DN		
+		135	0x8778					
+	e	136	0x8877			NUM_0		
+		137	0x8976					
+		138	0x8A75					
+	a	139	0x8B74	pair remote				
+		140	0x8C73					
+	a	141	0x8D72	zee5				
+		142	0x8E71					
+		143	0x8F70					
+	e	144	0x906F			NUM_5		
+		145	0x916E					
+	e	146	0x926D			REC		
+		147	0x936C					
+		148	0x946B					
+		149	0x956A					
+	e	150	0x9669				PC	
+	e	151	0x9768	hdmi1	HDMI1			
+		152	0x9867					
+	e	153	0x9966		POWER_ON			
+	a	154	0x9A65	accessibility				
+		155	0x9B64					
+		156	0x9C63					
+s		157	0x9D62				PLAY_PAUSE	
+s	a	158	0x9E61	menu		MENU	HOME	
+		159	0x9F60					
+	e	160	0xA05F			NUM_2		
+	x	161	0xA15E					
+	e	162	0xA25D			REWIND		
+	e	163	0xA35C		HDMI4			
+	e	164	0xA45B		SUBT	ACCESSIBILITY		
+		165	0xA55A					
+s	e	166	0xA659			DIR_LEFT		
+		167	0xA758					
+	e	168	0xA857			COLOR_C_YELLOW		
+		169	0xA956					
+		170	0xAA55					
+		171	0xAB54					
+		172	0xAC53					
+		173	0xAD52					
+		174	0xAE51					
+		175	0xAF50					
+	e	176	0xB04F			NUM_8		
+		177	0xB14E					
+		178	0xB24D					
+		179	0xB34C					
+	e	180	0xB44B			EXIT		
+		181	0xB54A					
+		182	0xB649					
+		183	0xB748					
+		184	0xB847					
+		185	0xB946					
+		186	0xBA45					
+		187	0xBB44					
+		188	0xBC43					
+	e	189	0xBD42		PIC_DYNAMIC			
+		190	0xBE41					
+		191	0xBF40					
+	e	192	0xC03F	sleep timer	SLEEP			
+		193	0xC13E					
+	e	194	0xC23D		DTV			
+		195	0xC33C					
+	x	196	0xC43B					
+		197	0xC53A					
+	e	198	0xC639		DMA			
+	e	199	0xC738		P.SIZE 4-3			
+	e	200	0xC837			CH_PRE		
+		201	0xC936					
+		202	0xCA35					
+		203	0xCB34					
+	e	204	0xCC33		PIP_CH_UP			
+		205	0xCD32					
+	a	206	0xCE31	search		SEARCH		
+	a	207	0xCF30	netflix				
+s	e	208	0xD02F	volume down		VOL_DN		
+	e	209	0xD12E	hdmi switch	HDMI			
+	e	210	0xD22D			TOOLS		
+		211	0xD32C					
+	e	212	0xD42B	sound mode		S.MODE		
+		213	0xD52A					
+	e	214	0xD629			CH_LIST		
+	x	215	0xD728					
+	e	216	0xD827			TV		
+		217	0xD926					
+		218	0xDA25					
+		219	0xDB24					
+	e	220	0xDC23			FACTORY		
+	a	221	0xDD22				app	
+		222	0xDE21					
+	x	223	0xDF20					
+s	e	224	0xE01F	volume up		VOL_UP		
+	e	225	0xE11E		CLOCK			
+	e	226	0xE21D			PLAY		
+		227	0xE31C					
+	e	228	0xE41B	accessibility	AD			
+		229	0xE51A					
+		230	0xE619					
+		231	0xE718					
+		232	0xE817					
+		233	0xE916					
+		234	0xEA15					
+		235	0xEB14					
+	a	236	0xEC13	internet				
+		237	0xED12					
+	e	238	0xEE11		ENERGY SAVING			
+		239	0xEF10					
+s	e	240	0xF00F			MUTE		
+		241	0xF10E					
+s	e	242	0xF20D			GUIDE		
+		243	0xF30C					
+		244	0xF40B					
+	a	245	0xF50A	PC ON SCREEN				
+		246	0xF609					
+		247	0xF708					
+	e	248	0xF807			INFO		
+		249	0xF906					
+		250	0xFA05					
+	e	251	0xFB04		PIC_STANDARD			
+	a	252	0xFC03			MANUAL		
+	a	253	0xFD02	N/A			app	
+		254	0xFE01					
+		255	0xFF00					

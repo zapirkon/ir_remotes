@@ -1,0 +1,44 @@
+#
+# this config file was automatically generated
+# using WinLIRC 0.6.5 (LIRC 0.6.1pre3) on Mon Jan 10 07:03:40 2022
+#
+# contributed by 
+#
+# brand:             tracer_tumba
+# model:             
+# supported devices: 
+#
+
+begin remote
+
+  name  tracer_tumba
+  bits           16
+  flags SPACE_ENC
+  eps            25
+  aeps          100
+
+  header       8986  4511
+  one           560   562
+  zero          560  1671
+  ptrail        560
+  repeat       8998  2252
+  pre_data_bits   16
+  pre_data       0xFF00
+  gap          39823
+  toggle_bit      0
+
+
+      begin codes
+          MODE                     0x0000000000005DA2
+          MUTE                     0x0000000000001DE2
+          VOL_UP                   0x0000000000006F90
+          VOL_DOWN                 0x0000000000001FE0
+          CH_PREV                  0x0000000000009768
+          CH_NEXT                  0x0000000000004FB0
+          PLAY_PAUSE               0x000000000000CF30
+          EQ                       0x000000000000857A
+      end codes
+
+end remote
+
+
