@@ -1,4 +1,8 @@
-								
+s = smart
+e = existing
+a = added / found new codes
+x = found new codes that don't work by default (maybe app specific)
+
 	x	0	0x00FF		DUAL			
 		1	0x01FE					
 		2	0x02FD					
