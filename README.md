@@ -5,4 +5,3 @@ Various (LIRC, irplus) configurations for infrared remotes
 - Telekom T-Home
 - Tracer Tumba 2.1 BT speaker
 - SkyStar
-- 
